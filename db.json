@@ -1,3 +1,24 @@
 {
-
+  "products" : [
+    {"id":1,"name":"Musk ox","category":"Fuscia"},
+    {"id":2,"name":"African bush squirrel","category":"Mauv"},
+    {"id":3,"name":"Flycatcher, tyrant","category":"Turquoise"},
+    {"id":4,"name":"Hoary marmot","category":"Yellow"},
+    {"id":5,"name":"Brazilian tapir","category":"Pink"},
+    {"id":6,"name":"Jaeger, long-tailed","category":"Puce"},
+    {"id":7,"name":"Insect, stick","category":"Red"},
+    {"id":8,"name":"Hawk, ferruginous","category":"Blue"},
+    {"id":9,"name":"Nuthatch, red-breasted","category":"Fuscia"},
+    {"id":10,"name":"Crane, blue","category":"Aquamarine"},
+    {"id":11,"name":"Galapagos dove","category":"Yellow"},
+    {"id":12,"name":"Oriental short-clawed otter","category":"Crimson"},
+    {"id":13,"name":"Cliffchat, mocking","category":"Orange"},
+    {"id":14,"name":"Dama wallaby","category":"Khaki"},
+    {"id":15,"name":"Eleven-banded armadillo (unidentified)","category":"Puce"},
+    {"id":16,"name":"Southern white-crowned shrike","category":"Puce"},
+    {"id":17,"name":"European stork","category":"Turquoise"},
+    {"id":18,"name":"Duiker, common","category":"Goldenrod"},
+    {"id":19,"name":"Brown lemur","category":"Fuscia"},
+    {"id":20,"name":"Dove, laughing","category":"Blue"}
+  ]
 }
